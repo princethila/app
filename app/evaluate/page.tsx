@@ -14,6 +14,25 @@ export default function EvaluatePage() {
     const [displaySessionId, setDisplaySessionId] = useState<string>("");
     const [status, setStatus] = useState<'IDLE' | 'SUBMITTING' | 'SUCCESS' | 'ERROR'>('IDLE');
     const [lastError, setLastError] = useState<string | null>(null);
+    const [activeTab, setActiveTab] = useState<'SOURCE' | 'REPORT'>('SOURCE');
+    const [showSidebar, setShowSidebar] = useState(false);
+    const [isMobile, setIsMobile] = useState(false);
+
+useEffect(() => {
+  const checkDevice = () => {
+    const mobile =
+      /Android|iPhone|iPad|iPod|Opera Mini|IEMobile|WPDesktop/i.test(
+        navigator.userAgent
+      ) || window.innerWidth < 768;
+
+    setIsMobile(mobile);
+  };
+
+  checkDevice();
+  window.addEventListener("resize", checkDevice);
+
+  return () => window.removeEventListener("resize", checkDevice);
+}, []);
     
 
     useEffect(() => {
@@ -132,6 +151,28 @@ export default function EvaluatePage() {
         <span>LOC: {Intl.DateTimeFormat().resolvedOptions().timeZone}</span>
         <span>UTC: {new Date().toISOString().split('T')[0]}</span>
       </div>
+    </div>
+  </div>
+)}
+{/* MOBILE BLOCK OVERLAY */}
+{isMobile && (
+  <div className="fixed inset-0 z-[200] bg-white flex items-center justify-center p-6 text-center">
+    
+    <div className="max-w-md border-2 border-black p-8 shadow-[10px_10px_0px_0px_rgba(0,0,0,1)]">
+      
+      <h1 className="text-lg font-bold mb-4 tracking-widest">
+        DESKTOP REQUIRED
+      </h1>
+
+      <p className="text-sm normal-case leading-relaxed mb-6">
+        This evaluation interface requires a larger screen for accurate
+        review and data capture.
+      </p>
+
+      <div className="text-xs border-t border-black pt-4">
+        Please reopen this page on a laptop or desktop computer.
+      </div>
+
     </div>
   </div>
 )}
