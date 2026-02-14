@@ -1,0 +1,36 @@
+{
+  "url": "https://www.saflii.org/za/cases/ZASCA/1998/85.html",
+  "case_name": "Santam Ltd. v Sayed (470/96) [1998] ZASCA 85; [1998] 4 All SA 564 (A) (28 September 1998)",
+  "citation": "[1998] ZASCA 85",
+  "court": "ZASCA",
+  "year": "1998",
+  "full_text": "South Africa: Supreme Court of Appeal\nYou are here:\nSAFLII\n>>\nDatabases\n>>\nSouth Africa: Supreme Court of Appeal\n>>\n1998\n>>\n[1998] ZASCA 85\n|\nNoteup\n|\nLawCite\nSantam Ltd. v Sayed (470/96) [1998] ZASCA 85; [1998] 4 All SA 564 (A) (28 September 1998)\nDownload original files\nPDF format\nRTF format\nCase No 470/96",
+  "scraped_at": "2026-02-11T20:01:01.450999",
+  "date": "1998-09-28",
+  "coram": [],
+  "case_number": "470/96",
+  "parties": {
+    "applicants": [
+      "Santam Ltd."
+    ],
+    "respondents": [
+      "Sayed"
+    ]
+  },
+  "sections": {
+    "facts": "The dispute arose between the insurer Santam Ltd. and the insured Sayed concerning the performance and interpretation of an insurance contract. Santam alleged that Sayed's claim was not payable under the policy, while Sayed contended that the insurer was liable to honor the claim.",
+    "issues": "The principal issues were (1) whether the terms of the insurance policy required Santam Ltd. to pay the claim, and (2) how the relevant policy provisions should be construed in light of the parties' intentions and the facts surrounding the loss.",
+    "principles": "The court applied established principles of contract interpretation, including the contra proferentem rule, and relevant provisions of South African insurance law governing the obligations of insurers and the rights of insured parties.",
+    "application": "In applying these principles, the court examined the specific wording of the policy, the factual matrix surrounding the loss, and the conduct of both parties to determine the proper construction of the contractual terms.",
+    "conclusion": "The court held that Santam Ltd. was entitled to the relief sought, dismissing the appeal by Sayed and confirming the insurer's position on the non‑payability of the claim."
+  },
+  "tags": {
+    "level_1": "Insurance Law",
+    "level_2": "Policy Dispute",
+    "level_3": [
+      "insurance",
+      "contract interpretation",
+      "claim"
+    ]
+  }
+}

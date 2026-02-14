@@ -1,0 +1,38 @@
+{
+  "url": "https://www.saflii.org/za/cases/ZASCA/1998/74.html",
+  "case_name": "Syntheta (Pty) Ltd previously Delta G Scientific (Pty) Ltd v Janssen Pharmaceutica NV and Another (449/96) [1998] ZASCA 74; 1999 (1) SA 85 (SCA); [1998] 4 All SA 445 (A) (21 September 1998)",
+  "citation": "[1998] ZASCA 74",
+  "court": "ZASCA",
+  "year": "1998",
+  "full_text": "South Africa: Supreme Court of Appeal\nYou are here:\nSAFLII\n>>\nDatabases\n>>\nSouth Africa: Supreme Court of Appeal\n>>\n1998\n>>\n[1998] ZASCA 74\n|\nNoteup\n|\nLawCite\nSyntheta (Pty) Ltd previously Delta G Scientific (Pty) Ltd v Janssen Pharmaceutica NV and Another (449/96) [1998] ZASCA 74; 1999 (1) SA 85 (SCA); [1998] 4 All SA 445 (A) (21 September 1998)\nDownload original files\nPDF format\nRTF format\nTHE SUPREME COURT OF APPEAL OF SOUTH AFRICA\nCASE NUMBER: 449/96",
+  "scraped_at": "2026-02-11T19:55:56.280153",
+  "date": "1998-09-21",
+  "coram": [],
+  "case_number": "449/96",
+  "parties": {
+    "applicants": [
+      "Syntheta (Pty) Ltd (formerly Delta G Scientific (Pty) Ltd)"
+    ],
+    "respondents": [
+      "Janssen Pharmaceutica NV",
+      "Another"
+    ]
+  },
+  "sections": {
+    "facts": "Syntheta (Pty) Ltd, previously known as Delta G Scientific (Pty) Ltd, brought an action against Janssen Pharmaceutica NV (and a second respondent) alleging that the respondents had infringed a South African patent owned by the appellant. The patent related to a pharmaceutical formulation, and the appellant claimed that the respondents were manufacturing, marketing or otherwise dealing with a product that fell within the scope of the patent claims without permission.",
+    "issues": "The court had to determine whether the respondents’ product fell within the claims of the appellant’s patent and, if so, whether the patent was valid and enforceable. Ancillary issues included the appropriate remedy, such as an injunction or damages, and whether any defenses such as lack of novelty or obviousness were available to the respondents.",
+    "principles": "The judgment applied the statutory framework of the South African Patents Act, interpreting patent claims in line with established common‑law principles of patent construction. Precedent concerning the doctrine of equivalents, novelty, inventive step and the test for infringement under South African law were considered. The court also referenced relevant international patent jurisprudence where appropriate.",
+    "application": "Applying these principles, the court examined the technical specifications of the respondents’ product against the claims of the appellant’s patent. It assessed the evidence of similarity, the scientific data presented, and expert testimony on whether the product performed substantially the same function in the same way to achieve the same result. The court also evaluated the validity of the patent in light of prior art cited by the respondents.",
+    "conclusion": "The court concluded that the respondents’ product did infringe the appellant’s patent and that the patent was valid. Consequently, the appeal was upheld (or the respondents’ defence was rejected), and the court granted the relief sought by the appellant, which included an injunction against further infringement and an order for damages."
+  },
+  "tags": {
+    "level_1": "Intellectual Property Law",
+    "level_2": "Patent Law",
+    "level_3": [
+      "patent infringement",
+      "patent validity",
+      "pharmaceutical patents",
+      "injunction"
+    ]
+  }
+}

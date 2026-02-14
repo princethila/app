@@ -1,26 +1,36 @@
 @import "tailwindcss";
 
+@theme {
+  /* We use physical names to avoid "dark mode" auto-swaps */
+  --color-paper: #efefef;
+  --color-ink: #000000;
+  --color-ghost: #666666;
+  --color-surface: #ffffff;
+  
+  --font-mono: "Geist Mono", "JetBrains Mono", monospace;
+}
+
+/* Hard reset to stop Next.js from forcing black backgrounds */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  color-scheme: light !important; /* Forces light mode rendering */
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+html, body {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+/* The Technical Grid Background */
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-image: 
+    linear-gradient(to right, rgba(0,0,0,0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0,0,0,0.05) 1px, transparent 1px);
+  background-size: 40px 40px;
 }
+
+/* Custom scrollbar to keep it looking archival */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-thumb { background: #000; }

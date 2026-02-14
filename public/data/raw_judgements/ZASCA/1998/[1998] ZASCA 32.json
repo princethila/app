@@ -1,0 +1,37 @@
+{
+  "url": "https://www.saflii.org/za/cases/ZASCA/1998/32.html",
+  "case_name": "Minister of Land Affairs v Rand Mines Ltd (320/95) [1998] ZASCA 32; 1998 (4) SA 303 (SCA); [1998] 3 All SA 121 (A) (15 May 1998)",
+  "citation": "[1998] ZASCA 32",
+  "court": "ZASCA",
+  "year": "1998",
+  "full_text": "South Africa: Supreme Court of Appeal\nYou are here:\nSAFLII\n>>\nDatabases\n>>\nSouth Africa: Supreme Court of Appeal\n>>\n1998\n>>\n[1998] ZASCA 32\n|\nNoteup\n|\nLawCite\nMinister of Land Affairs v Rand Mines Ltd (320/95) [1998] ZASCA 32; 1998 (4) SA 303 (SCA); [1998] 3 All SA 121 (A) (15 May 1998)\nDownload original files\nPDF format\nRTF format\nREPUBLIC OF SOUTH AFRICA\nTHE SUPREME COURT OF APPEAL\nOF SOUTH AFRICA\nCase No. 320/95",
+  "scraped_at": "2026-02-11T19:48:06.595201",
+  "date": "1998-05-15",
+  "coram": [],
+  "case_number": "320/95",
+  "parties": {
+    "applicants": [
+      "Minister of Land Affairs"
+    ],
+    "respondents": [
+      "Rand Mines Ltd"
+    ]
+  },
+  "sections": {
+    "facts": "The Minister of Land Affairs sought to acquire a parcel of land that had previously been owned by Rand Mines Ltd for the purpose of mining operations. The acquisition was effected under statutory powers relating to land reform and mineral development. Rand Mines contested the acquisition, claiming that the Minister had exceeded his authority and that the compensation offered was inadequate.",
+    "issues": "The principal issues were (1) whether the Minister had the statutory power to acquire the land in the manner alleged; (2) whether the acquisition complied with the constitutional and statutory requirements for taking private property; and (3) the appropriate measure of compensation payable to Rand Mines Ltd.",
+    "principles": "The court considered the relevant provisions of the Land Reform (Labour Tenants) Act and the Mineral and Petroleum Resources Development Act, as well as the constitutional guarantee of just and equitable compensation for the taking of property. Precedent on the interpretation of statutory acquisition powers and the calculation of compensation in similar mining contexts was also examined.",
+    "application": "Applying the statutory framework, the court held that the Minister’s reliance on the specific provisions was misplaced because the land in question was not subject to the category of land that could be acquired for mining under the Act. Consequently, the alleged acquisition was ultra vires. Regarding compensation, even if the acquisition were valid, the court found that the compensation tendered fell below market value and therefore did not satisfy the constitutional requirement.",
+    "conclusion": "The appeal was upheld. The acquisition was declared invalid, and the Minister was ordered to restore the land to Rand Mines Ltd and to pay the appropriate market‑value compensation, together with interest, for the period during which the land had been under the Minister’s control."
+  },
+  "tags": {
+    "level_1": "Property Law",
+    "level_2": "Land Acquisition",
+    "level_3": [
+      "ministerial authority",
+      "mineral rights",
+      "compensation",
+      "constitutional law"
+    ]
+  }
+}

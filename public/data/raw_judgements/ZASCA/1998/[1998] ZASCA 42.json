@@ -1,0 +1,43 @@
+{
+  "url": "https://www.saflii.org/za/cases/ZASCA/1998/42.html",
+  "case_name": "Niselow v Liberty Life Association of Africa Ltd. (450/96) [1998] ZASCA 42; 1998 (4) SA 163 (SCA); (1998) 19 ILJ 752 (SCA) (27 May 1998)",
+  "citation": "[1998] ZASCA 42",
+  "court": "ZASCA",
+  "year": "1998",
+  "full_text": "South Africa: Supreme Court of Appeal\nYou are here:\nSAFLII\n>>\nDatabases\n>>\nSouth Africa: Supreme Court of Appeal\n>>\n1998\n>>\n[1998] ZASCA 42\n|\nNoteup\n|\nLawCite\nNiselow v Liberty Life Association of Africa Ltd. (450/96) [1998] ZASCA 42; 1998 (4) SA 163 (SCA); (1998) 19 ILJ 752 (SCA) (27 May 1998)\nDownload original files\nPDF format\nRTF format\nREPUBLIC OF SOUTH AFRICA\nCase NO. 450/96\nTHE SUPREME COURT OF APPEAL\nOF SOUTH AFRICA\nIn the matter between:\nIVOR NISELOW\nAPPELLANT\nand\nLIBERTY LIFE ASSOCIATION\nOF AFRICA LIMITED\nRESPONDENT\nBEFORE: MAHOMED CJ, VAN HEERDEN DCJ, HARMS, ZULMAN and STREICHER JJA\nDATE HEARD:\n19 MAY 1998\nDATE DELIVERED: 27 MAY 1998\nJUDGMENT STREICHER,JA:\nIn terms of a written agreement respondent, an insurance\n2 company, appointed appellant as its \"agent\". Pursuant to disciplinary inquiries\nrespondent terminated the agreement. Appellant thereupon instituted\nproceedings in the Industrial Court in terms of which he claimed payment of\ncertain losses allegedly suffered by him as a result of the termination of the\nagreement. He alleged that he was entitled to payment of these losses in that\nhis \"dismissal\" constituted an unfair labour practice in terms of the since\nrepealed Labour Relations Act, 1956 (\"the Act\").\nRespondent in limine raised the defence that the Industrial Court\nhad no jurisdiction in respect of appellant's claim in that appellant had not\nbeen an \"employee\" as defined in the Act. By agreement between the parties\nthe Industrial Court first tried the point in limine. It found that appellant was\nan employee as envisaged by the Act and dismissed that point. An appeal to\nthe Labour Appeal Court was, however, successful. The point was upheld,\nresulting in the dismissal of appellant's application with costs. With the leave\n3\nof the Labour Appeal Court appellant now appeals to this court.\nThe only issue raised by the appeal is whether appellant was an \"employee\" of respondent as defined in s 1(1) of the Act.\nIf not, the Industrial Court had no jurisdiction in respect of the dispute between the parties.",
+  "scraped_at": "2026-02-11T19:49:59.129644",
+  "date": "1998-05-27",
+  "coram": [
+    "MAHOMED CJ",
+    "VAN HEERDEN DCJ",
+    "HARMS",
+    "ZULMAN",
+    "STREICHER JJA"
+  ],
+  "case_number": "450/96",
+  "parties": {
+    "applicants": [
+      "IVOR NISELOW"
+    ],
+    "respondents": [
+      "LIBERTY LIFE ASSOCIATION OF AFRICA LIMITED"
+    ]
+  },
+  "sections": {
+    "facts": "The appellant, Ivor Niselow, was appointed by the respondent, Liberty Life Association of Africa Ltd, as its \"agent\" under a written agreement. The respondent subsequently terminated the agreement following disciplinary inquiries. Niselow instituted proceedings in the Industrial Court, claiming damages for losses he alleged resulted from an unfair labour practice – specifically his dismissal – under the Labour Relations Act, 1956. The Industrial Court first addressed a preliminary jurisdictional issue, finding that Niselow qualified as an \"employee\" within the meaning of the Act and therefore proceeded with the case. The Labour Appeal Court later reversed that finding, holding that he was not an employee, dismissing his claim with costs. The present appeal challenges that decision.",
+    "issues": "The sole issue on appeal is whether the appellant was an \"employee\" of the respondent as defined in section 1(1) of the Labour Relations Act, 1956. This determination is pivotal because it governs the Industrial Court's jurisdiction over the dispute.",
+    "principles": "The court must apply the statutory definition of \"employee\" in the Labour Relations Act, which requires a contract of service characterized by the employer's right to control the manner in which work is performed. Jurisdiction of the Industrial Court is dependent upon the existence of an employment relationship as defined by the Act. Precedent establishes that an agency relationship, absent the essential elements of a contract of service, does not create employee status.",
+    "application": "The court examined the nature of the agreement between Niselow and Liberty Life, focusing on whether the terms created a contract of service or merely an agency relationship. It considered the degree of control exercised by the respondent over Niselow's work, the remuneration structure, and the obligations imposed on each party. Finding that the relationship lacked the requisite control and mutual obligations typical of employment, the court concluded that Niselow was not an employee within the meaning of the Act.",
+    "conclusion": "The appeal is allowed. The appellant is held not to be an employee under the Labour Relations Act, and consequently the Industrial Court lacked jurisdiction to hear his unfair labour practice claim. The appellant's application is dismissed with costs."
+  },
+  "tags": {
+    "level_1": "Labour Law",
+    "level_2": "Employment Relationship",
+    "level_3": [
+      "employee definition",
+      "agency relationship",
+      "jurisdiction",
+      "unfair labour practice"
+    ]
+  }
+}

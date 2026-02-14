@@ -1,0 +1,43 @@
+{
+  "url": "https://www.saflii.org/za/cases/ZASCA/1998/50.html",
+  "case_name": "Pfeiffer v First National Bank of Southern Africa Ltd (230/96) [1998] ZASCA 50; 1998 (3) SA 1018 (SCA); [1998] 3 All SA 397 (A) (28 May 1998)",
+  "citation": "[1998] ZASCA 50",
+  "court": "ZASCA",
+  "year": "1998",
+  "full_text": "South Africa: Supreme Court of Appeal\nYou are here:\nSAFLII\n>>\nDatabases\n>>\nSouth Africa: Supreme Court of Appeal\n>>\n1998\n>>\n[1998] ZASCA 50\n|\nNoteup\n|\nLawCite\nPfeiffer v First National Bank of Southern Africa Ltd (230/96) [1998] ZASCA 50; 1998 (3) SA 1018 (SCA); [1998] 3 All SA 397 (A) (28 May 1998)\nDownload original files\nPDF format\nRTF format\nTHE SUPREME COURT OF APPEAL\nOF\nSOUTH AFRICA\nCase No: 230/96\nIn the matter between:\nSHIRLEY ANN PFEIFFER\nAppellant\nand\nFIRST NATIONAL BANK OF\nSOUTHERN AFRICA LTD\nRespondent\nCORAM: SMALBERGER, NIENABER, HARMS, MARAIS and\nZULMAN JJA\nHEARD: 7 MAY 1998\nDELIVERED: 28 MAY 1998\nJUDGMENT\nHARMS JA/\n2 HARMS JA:\nPerseverance may not pay interest, but it sometimes produces\ndividends. The spider, under the contemplating eyes of Robert the Bruce,\npersevered and succeeded. Counsel's persistence is to some extent the\nreason for this judgment.\nThe facts and the terms of the deed of suretyship appear from\nthe judgment of Nienaber JA and I shall assume that the reader is conversant with his judgment.\nThe deed of suretyship was intended to limit the liability of\nthe surety and did so in two relevant respects. First there is the limitation\nin relation to the R175 000 to which I shall refer as \"cap A\". This liability\nmay arise in relation to any causa, including interest. Generally speaking,\nthe significance of cap A is that as soon as the limit is reached, the surety\nis not liable for any further capital advances made to the debtor. If the\ndebtor's liability drops below the level of cap A, the surety remains liable\n3\nfor any indebtedness of the debtor until it returns to that level.\nThe second limit, cap B, relates to interest. Once the level of\ncap A is reached, the surety's liability for interest is limited to \"such further\nsum or sums for interest on that amount [that is cap A, the R175 000] ... as\nmay from time to time ... become due and payable by the said Debtor\". (I\nhave not lost sight of the surety's liability for certain charges above cap A.\nThe Bank did not claim these amounts from the appellant and this liability\nhas no effect on the principle involved.) The agreement does not impose\nany limitation on the amount of interest payable by the surety, but only in\nrelation to the base on which it is to be calculated.\nThe practical consequences of the restrictions upon the\nsurety's liability are these. Until the limit of cap A is exceeded, the liability\nof the debtor and surety remains fully coextensive. Once it is exceeded the\nliability is no longer coextensive in all respects. Only the debtor is liable\nfor further capital advances in excess of the cap and for any interest in\n4\nrelation to these amounts. In all other regards the liability remains\ncoextensive- for the R175 000 and the interest on that amount. If the surety\nis called upon to pay, the Bank cannot simply claim the amount due by the\ndebtor. A separate accounting exercise has to be done. Although this\nexercise may involve a theoretical division of an otherwise indivisible\nliability of the debtor, it is not a cause for concern because the calculation\nis contemplated by the suretyship agreement. A determination of the\nnotional interest \"due and payable by the debtor\" on the amount of R175\n000 is necessarily required because it would otherwise be impossible to\ncalculate the cap B interest for which the surety is liable in terms of the\nagreement.\nBecause the debtor's liability springs in this case from a\nfluctuating overdraft account, it is difficult to illustrate the problem. A\nsimple example might be useful. A debtor borrows R200 from the Bank on\nan open account. The surety binds himself for payment of no more than\n5\nhalf the amount borrowed (namely R100) plus interest thereon. Each month\ninterest on the amount borrowed is duly calculated, compounded and\ndebited against the debtor's account. The interest amounts to R2 per\nmonth. The debtor studiously pays R2 per month in reduction of the\naccount. If these payments are appropriated to interest, it will mean that\nafter any period, say one year, the liability of the principal debtor will still\namount to only R200 and that of the surety to R100. If they are not\nappropriated to interest but to the capitalised amount, the liability of the\ndebtor will at the end of year one be unchanged at R200, but the liability of\nthe surety will be R100 plus interest calculated on that amount. This means\nthat the surety is liable for notional interest for which the principal debtor\nis not. Was that what the parties intended? The answer has to be found in\nthe deed of suretyship.\nTo return to the facts of this case. Once cap A was exceeded,\nthe surety became liable for cap B interest, but only to the extent of the\n6",
+  "scraped_at": "2026-02-11T19:51:35.025033",
+  "date": "1998-05-28",
+  "coram": [
+    "SMALBERGER",
+    "NIENABER",
+    "HARMS",
+    "MARAIS",
+    "ZULMAN JJA"
+  ],
+  "case_number": "230/96",
+  "parties": {
+    "applicants": [
+      "Shirley Ann Pfeiffer"
+    ],
+    "respondents": [
+      "First National Bank of Southern Africa Ltd"
+    ]
+  },
+  "sections": {
+    "facts": "The appellant, Shirley Ann Pfeiffer, signed a deed of suretyship for a banking overdraft facility. The deed limited the surety’s liability in two ways: (a) a capital cap (\"cap A\") of R175,000, and (b) an interest cap (\"cap B\") that applied once cap A was reached, limiting interest to that calculated on the capped amount. The bank later sought payment from the surety for amounts it alleged were due, including interest, prompting litigation over the interpretation of these caps and the surety’s extent of liability.",
+    "issues": "The court had to determine: (1) whether the surety was liable for interest beyond the amount covered by cap A; (2) how the interest limitation (cap B) should be interpreted and applied; and (3) whether the bank could claim the full amount outstanding without a separate accounting of the debtor’s and surety’s liabilities.",
+    "principles": "The judgment relied on principles of contract interpretation for suretyship agreements, specifically that the parties’ express limitations (caps) control the extent of liability. It reaffirmed the rule that once a capital cap is reached, the surety’s liability for further capital advances ceases, while liability for interest is confined to that calculable on the capped capital. The need for a distinct accounting exercise to apportion notional interest was emphasized as a contractual requirement, not a barrier to enforcement.",
+    "application": "Applying these principles, the court held that after cap A was exceeded, the appellant’s liability was confined to interest calculated on the R175,000 limit (cap B). The bank could not claim additional interest on amounts beyond that cap without first determining the notional interest owed by the principal debtor. Consequently, the bank’s claim for extra interest was beyond the scope of the deed of suretyship.",
+    "conclusion": "The Supreme Court of Appeal ruled in favour of the appellant, holding that the surety’s liability for interest was limited to that stipulated by cap B. The bank’s claim for further interest was dismissed, and the appellant was not required to pay amounts beyond the contractual limitation."
+  },
+  "tags": {
+    "level_1": "Contract Law",
+    "level_2": "Suretyship",
+    "level_3": [
+      "interest liability",
+      "capital cap",
+      "banking",
+      "deed interpretation"
+    ]
+  }
+}

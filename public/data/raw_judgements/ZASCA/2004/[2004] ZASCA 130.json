@@ -1,0 +1,41 @@
+{
+  "url": "https://www.saflii.org/za/cases/ZASCA/2004/130.html",
+  "case_name": "Lubbe v Louw (531/03) [2004] ZASCA 130; [2006] 4 All SA 341 (SCA) (25 November 2004)",
+  "citation": "[2004] ZASCA 130",
+  "court": "ZASCA",
+  "year": "2004",
+  "full_text": "South Africa: Supreme Court of Appeal\nYou are here:\nSAFLII\n>>\nDatabases\n>>\nSouth Africa: Supreme Court of Appeal\n>>\n2004\n>>\n[2004] ZASCA 130\n|\nNoteup\n|\nLawCite\nLubbe v Louw (531/03) [2004] ZASCA 130; [2006] 4 All SA 341 (SCA) (25 November 2004)\nDownload original files\nPDF format\nRTF format\nLinks to summary\nPDF format\nRTF format\nREPUBLIC OF SOUTH AFRICA\nTHE SUPREME COURT OF APPEAL\nOF SOUTH AFRICA\nCase number 531/03\nReportable\nIn the matter between:\nWDJ LUBBE\nAPPELLANT\nand\nBWB LOUW\nRESPONDENT\nCORAM\n:  \n        \nFARLAM, CLOETE et HEHER JJA\nHEARD\n:  \n        \n8 NOVEMBER 2004\nDELIVERED\n:      \n 25 NOVEMBER 2004\nSUMMARY:\nVeld fire – failure by landowner\nto prevent fire spreading to neighbouring farms – whether omission unlawful – whether presumption of negligence rebutted.\n________________________________\n________________________\nJUDGMENT\n________________________________________________________\nFARLAM JA\nINTRODUCTION",
+  "scraped_at": "2026-02-12T09:09:17.830297",
+  "date": "2004-11-25",
+  "coram": [
+    "FARLAM JA",
+    "CLOETE JA",
+    "HEHER JA"
+  ],
+  "case_number": "531/03",
+  "parties": {
+    "applicants": [
+      "WDJ LUBBE"
+    ],
+    "respondents": [
+      "BWB LOUW"
+    ]
+  },
+  "sections": {
+    "facts": "A veld fire broke out on the appellant's farm. The appellant, as landowner, failed to take reasonable steps to prevent the fire from spreading to neighbouring farms, causing damage to the respondent's property. The lower court considered whether this omission amounted to an unlawful act and whether a presumption of negligence attached to the fire's spread.",
+    "issues": "The appeal raised two principal issues: (1) whether the landowner's failure to prevent the fire constituted an unlawful omission giving rise to delictual liability; and (2) whether the statutory or common‑law presumption of negligence in fire cases could be rebutted by the appellant.",
+    "principles": "The court examined the general principles of negligence in delict, focusing on the existence of a duty of care, breach of that duty, causation and damage. It considered the rule that a landowner may be liable for an omission where there is a legal duty to act to prevent foreseeable harm, and the established presumption of negligence that arises where a fire spreads from a claimant's property to that of a neighbour, unless the landowner can prove that all reasonable measures were taken.",
+    "application": "Applying these principles, the court assessed the appellant's conduct against the standard of a reasonable landowner in similar circumstances. It evaluated evidence of fire‑prevention measures taken—or not taken—by the appellant and considered whether the fire's spread was foreseeable. The court concluded that the appellant had not demonstrated that all reasonable steps were taken, and therefore the presumption of negligence was not successfully rebutted.",
+    "conclusion": "The Supreme Court of Appeal dismissed the appeal, affirming the finding of negligence against the landowner. The judgment confirmed that the appellant's omission was unlawful and that the presumption of negligence stood, resulting in liability for the damage caused to the respondent's farm."
+  },
+  "tags": {
+    "level_1": "Delict",
+    "level_2": "Negligence",
+    "level_3": [
+      "landowner duty",
+      "fire",
+      "omission liability",
+      "presumption of negligence"
+    ]
+  }
+}

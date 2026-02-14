@@ -1,0 +1,43 @@
+{
+  "url": "https://www.saflii.org/za/cases/ZASCA/1998/40.html",
+  "case_name": "Owner of the MT Tigr and Another v Transnet Ltd. t/a Portnet (214/97) [1998] ZASCA 40; [1998] 3 All SA 453 (A); 1998 (3) SA 861 (SCA) (27 May 1998)",
+  "citation": "[1998] ZASCA 40",
+  "court": "ZASCA",
+  "year": "1998",
+  "full_text": "South Africa: Supreme Court of Appeal\nYou are here:\nSAFLII\n>>\nDatabases\n>>\nSouth Africa: Supreme Court of Appeal\n>>\n1998\n>>\n[1998] ZASCA 40\n|\nNoteup\n|\nLawCite\nOwner of the MT Tigr and Another v Transnet Ltd. t/a Portnet (214/97) [1998] ZASCA 40; [1998] 3 All SA 453 (A); 1998 (3) SA 861 (SCA) (27 May 1998)\nDownload original files\nPDF format\nRTF format\nREPUBLIC OF SOUTH AFRICA\n/mb\nIN THE SUPREME COURT OF APPEAL OF SOUTH AFRICA\nIn the matter between:\nTHE OWNER OF THE MT'TIGR'\nFIRST APPELLANT\nULTISOL TRANSPORT CONTRACTORS\nSECOND APPELLANT\nLIMITED and\nTRANSNET LIMITED t/a PORTNET\nRESPONDANT\nBOUYGUES OFFSHORE SA (First Intervening Party)\nTHE HULL AND MACHINERY\nUNDERWRITERS OF THE 'BOS 400' (Second Intervening Party)\nCORAM:\nHEFER,NIENABER,MARAIS,SCHUTZ et SCOTT JJA\nHEARD: 5 May 1998\nDELIVERED: 27 May 1998\n2 SCOTT JA:\nOn 26 June 1996 the barge Bos 400 ran aground and was wrecked at Oude Schip on the west coast of the Cape Peninsula just south of\nSandy Bay and not far from Cape Town. She was being towed at the time by the the tug Tigr. The barge was owned by a French company,\nBouygues Offshore SA ('Bouygues'). Her insurers were likewise French. The owner of the Tigr was a corporate body (to which I shall\nrefer as 'Caspian') of the Republic of Azerbaijan. She had been time-chartered by Caspian to Ultisol Transport Contractors Ltd ('Ultisol'),\na Bermudan company managed from the Netherlands. At the time of the casualty the barge was under tow from the Congo to Cape Town\nin pursuance of a contract made between Bouygues and Ultisol in the so-called BIMCO Towcon form ('the Towcon') which is apparently\nrecognised internationally and used world- wide.",
+  "scraped_at": "2026-02-11T19:49:39.236581",
+  "date": "1998-05-27",
+  "coram": [
+    "Hefer JA",
+    "Nienaber JA",
+    "Marais JA",
+    "Schutz JA",
+    "Scott JA"
+  ],
+  "case_number": null,
+  "parties": {
+    "applicants": [
+      "Owner of the MT Tigr",
+      "Ultisol Transport Contractors Ltd"
+    ],
+    "respondents": [
+      "Transnet Ltd t/a Portnet"
+    ]
+  },
+  "sections": {
+    "facts": "On 26 June 1996 the offshore barge BOS 400, owned and insured by Bouygues Offshore SA (France), was being towed from the Congo to Cape Town under a BIMCO Towcon contract with Ultisol Transport Contractors Ltd (Bermuda). The tow was effected by the tug MT Tigr, owned by a corporate entity of the Republic of Azerbaijan (referred to as 'Caspian') and time‑chartered to Ultisol. While under tow the barge ran aground and was wrecked at Oude Schip on the west coast of the Cape Peninsula, near Sandy Bay. The incident gave rise to claims by Bouygues and its insurers against the owners of the tug and the parties to the tow contract.",
+    "issues": "The appeal centred on (1) whether the owner/operator of the tug MT Tigr owed a duty of care to the barge under the Towcon and general maritime law; (2) whether that duty was breached resulting in the grounding; (3) the extent to which the contractual provisions of the BIMCO Towcon governed liability; and (4) whether the claimants were entitled to damages and costs from the appellant parties.",
+    "principles": "The court considered the established principles of marine towage contracts, including the duties imposed by the BIMCO Towcon form, the common‑law duty of reasonable care owed by a tow‑master to the towed vessel, and the test for negligence in a maritime context (duty, breach, causation, damage). It also applied the doctrine of vicarious liability for the actions of the tug’s crew and examined the relevance of marine insurance under the Hull and Machinery policy.",
+    "application": "Applying these principles, the court examined the conduct of the tug’s crew, the adequacy of the tow plan, and compliance with the Towcon specifications. Evidence showed that the tug failed to maintain appropriate control and navigation precautions, constituting a breach of the contractual and common‑law duty of care. The breach was directly linked to the barge’s grounding, satisfying the causation requirement. The court further held that the owner of the tug, Caspian, could be held vicariously liable for the crew’s negligence and that the Hull and Machinery underwriters were subrogated to the claimants’ loss.",
+    "conclusion": "The Supreme Court of Appeal upheld the lower court’s finding of liability against the owners of the MT Tigr. The appellants were ordered to pay damages to Bouygues Offshore SA and the Hull and Machinery underwriters, together with the costs of the proceedings."
+  },
+  "tags": {
+    "level_1": "Maritime Law",
+    "level_2": "Marine Towing",
+    "level_3": [
+      "tug liability",
+      "contract breach",
+      "marine insurance"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://www.saflii.org/za/cases/ZASCA/1998/87.html",
+  "case_name": "Thompson v Scholtz (167/96) [1998] ZASCA 87; 1999 (1) SA 232 (SCA); [1998] 4 All SA 526 (A) (28 September 1998)",
+  "citation": "[1998] ZASCA 87",
+  "court": "ZASCA",
+  "year": "1998",
+  "full_text": "South Africa: Supreme Court of Appeal\nYou are here:\nSAFLII\n>>\nDatabases\n>>\nSouth Africa: Supreme Court of Appeal\n>>\n1998\n>>\n[1998] ZASCA 87\n|\nNoteup\n|\nLawCite\nThompson v Scholtz (167/96) [1998] ZASCA 87; 1999 (1) SA 232 (SCA); [1998] 4 All SA 526 (A) (28 September 1998)\nDownload original files\nPDF format\nRTF format\nIN THE SUPREME COURT OF APPEAL OF SOUTH AFRICA\nCase No: 167/96\nIn the matter between:\nWILLIAM ROLAND THOMPSON\nAppellant\nand\nJOHANNES NICOLAAS SCHOLTZ\nRespondent\nCORAM :\nVan Heerden, DCJ, Smalberger, Nienaber, Zulman, DA,\nMelunsky, AJA\nHEARD:\n21 August 1998\nDELIVERED: 28 September 1998\nJUDGMENT\nNIENABER JA\n2\nNIENABER JA\n:\nThe appellant, plaintiff in the court below, sold what was essentially a stock\nfarm in the Beaufort West area together with certain livestock to the respondent,\ndefendant in the court below, for Rl ,1m. I shall refer to the parties as the plaintiff\nand the defendant respectively. The farm, Springfontein, 8 500 hectares in extent,\nwas sold to the defendant as a going concern. On it there is a farmhouse. In terms\nof the written agreement of sale the plaintiff was obliged to give the defendant\noccupation (\"besit\") of the entire farm on 1 May 1992. On that date he had\nvacated the farm but not the farmhouse. The defendant nevertheless took over the\nstock and all the farming operations for his own account. Because the plaintiff\ncontinued to occupy the farmhouse the defendant was compelled to reside on\nanother farm, Inverurie, some 12 kilometres distant, where he also farmed. The\nplaintiff only vacated Springfontein on 10 October 1992. By that time registration\nof transfer of the property into the defendant's name had already been effected\n3\nagainst payment of the purchase price. This occurred on 18 September 1992. By\n10 October 1992 the purchaser had accordingly received both transfer and full\noccupation and the seller had received the full purchase price.\nBut there was a problem. It related to the payment of occupational interest.\nClause 3 of the deed of sale provided as follows:\n\"3. (a) Besit van die eiendom sal aan die Koper gegee word op 1 Mei 1992, vanaf welke datum die risiko verbonde aan die eiendom\nop die Koper sal oorgaan;\n(b)",
+  "scraped_at": "2026-02-11T20:01:27.982421",
+  "date": "1998-09-28",
+  "coram": [
+    "Van Heerden DCJ",
+    "Smalberger",
+    "Nienaber",
+    "Zulman DA",
+    "Melunsky AJA"
+  ],
+  "case_number": "167/96",
+  "parties": {
+    "applicants": [
+      "William Roland Thompson"
+    ],
+    "respondents": [
+      "Johannes Nicolaas Scholtz"
+    ]
+  },
+  "sections": {
+    "facts": "The appellant, William Roland Thompson, sold the Springfontein farm (approximately 8 500 hectares) together with livestock to the respondent, Johannes Nicolaas Scholtz, for R1.1 million. The sale was a going‑concern transaction. Under the deed the buyer was to obtain occupation (\"besit\") of the whole farm on 1 May 1992, at which date the seller vacated the farm but retained the farmhouse. The buyer therefore operated the farm from another property, Inverurie, 12 km away. The seller finally vacated the farmhouse on 10 October 1992; by then the transfer of title had been registered on 18 September 1992 and the purchase price had been paid in full. A dispute arose concerning the payment of occupational interest stipulated in clause 3 of the deed.",
+    "issues": "The principal issue was whether the seller was liable to pay the occupational interest for the period between the date of registration (when risk passed to the buyer) and the date the seller finally vacated the farmhouse. The court had to interpret clause 3 of the deed to determine the parties’ obligations regarding interest on the purchase price during that interval.",
+    "principles": "South African contract law requires that the parties' intentions, as expressed in the written agreement, govern the allocation of risk and any interest on unpaid amounts. Where occupation is a condition precedent to the transfer of risk, the buyer assumes the risk from the date of occupation. If the seller retains possession beyond that date, the seller may be liable for any contractual interest on the purchase price for the period of continued occupation, unless expressly excluded by the contract.",
+    "application": "Applying these principles, the court examined clause 3 which linked the transfer of risk to the date of occupation. Since the buyer obtained registration on 18 September 1992, the risk (and therefore the basis for occupational interest) passed to the buyer on that date. The seller’s continued occupation of the farmhouse until 10 October 1992 meant that the seller benefited from the use of the property after risk had passed. Consequently, the seller was deemed liable for the occupational interest for the period of 18 September to 10 October 1992, calculated in accordance with the rate specified in the deed.",
+    "conclusion": "The court held that the appellant was liable to pay the occupational interest accrued from the date of registration until the date he vacated the farmhouse. The judgment ordered the appellant to pay the calculated interest to the respondent, together with any costs awarded by the court."
+  },
+  "tags": {
+    "level_1": "Property Law",
+    "level_2": "Sale of Land",
+    "level_3": [
+      "occupational interest",
+      "risk transfer",
+      "contract interpretation",
+      "farm sale"
+    ]
+  }
+}

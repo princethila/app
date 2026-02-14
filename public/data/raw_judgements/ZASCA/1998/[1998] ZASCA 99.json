@@ -1,0 +1,42 @@
+{
+  "url": "https://www.saflii.org/za/cases/ZASCA/1998/99.html",
+  "case_name": "Grand Mines (Pty) Ltd v Giddey NO (183/97) [1998] ZASCA 99; 1999 (1) SA 960 (SCA); (23 November 1998)",
+  "citation": "[1998] ZASCA 99",
+  "court": "ZASCA",
+  "year": "1998",
+  "full_text": "South Africa: Supreme Court of Appeal\nYou are here:\nSAFLII\n>>\nDatabases\n>>\nSouth Africa: Supreme Court of Appeal\n>>\n1998\n>>\n[1998] ZASCA 99\n|\nNoteup\n|\nLawCite\nGrand Mines (Pty) Ltd v Giddey NO (183/97) [1998] ZASCA 99; 1999 (1) SA 960 (SCA); (23 November 1998)\nDownload original files\nPDF format\nRTF format\nREPUBLIC\nOF\nSOUTH AFRICA\nREPORTABLE\nCase No: 183/97\nIN THE SUPREME COURT OF APPEAL OF\nSOUTH AFRICA\nIn the matter between:\nGRAND MINES (PTY) LTD\nAPPELLANT\nand\nTREVOR GIDDEY NO\nRESPONDENT\nCORAM\n: SMALBERGER, NIENABER, HOWIE,\nSCHUTZ JJA et NGOEPE AJA\nHEARD\n: 3 NOVEMBER 1998\nDELIVERED\n: 23 NOVEMBER 1998\nJUDGMENT\nSMALBERGER JA...\n2\nSMALBERGER JA:\nOn 18 May 1992 Bercon Mining (Pty) Limited\n(\"Bercon\"), a company carrying on mining activities, addressed a letter\nto the appellant (\"Grand Mines\"), the owner of a colliery, the relevant\nportions of which read:\n\"OPENCAST PIT MINING AT YOUR\nNORTHFIELD\nCOLLIERY - BRONKHORSTSPRUIT\nWe thank you for the opportunity to tender for the\nabovementioned contract and submit our offer as follows:\n1.\nRATE\n:\nThe rate is R14,00 per R.O.M. ton delivered\nto stockpile at your screening plant on the\nmine.\nThe above rate was calculated as follows:\na)\nRatio of not more than 2:1 (2M3\noverburden to 1 ton of coal).\nb)\nDrill and blast of not more than 50% of\noverburden.\nThe above rate includes:\n1) Removal of hard and soft overburden to\nreclaim area.\n3",
+  "scraped_at": "2026-02-11T20:06:34.557746",
+  "date": "1998-11-23",
+  "coram": [
+    "SMALBERGER JA",
+    "NIENABER JA",
+    "HOWIE JA",
+    "SCHUTZ JA",
+    "NGOEPE AJA"
+  ],
+  "case_number": "183/97",
+  "parties": {
+    "applicants": [
+      "GRAND MINES (PTY) LTD"
+    ],
+    "respondents": [
+      "TREVOR GIDDEY NO"
+    ]
+  },
+  "sections": {
+    "facts": "Grand Mines owned the Northfield Colliery and sought to engage Bercon Mining (Pty) Limited to carry out open‑cast pit mining. On 18 May 1992 Bercon sent a letter to Grand Mines proposing a rate of R14.00 per ROM ton delivered to a stockpile, with details on overburden ratios and drilling requirements. A dispute later arose concerning the formation, interpretation and enforceability of the proposed contract and the agreed rate.",
+    "issues": "The key issues were whether the letter constituted a legally binding offer that was accepted by Grand Mines, thereby forming a contract, and, if so, what the correct rate and obligations of the parties were under that contract.",
+    "principles": "The court applied South African contract law principles, focusing on the requirements for a valid offer, clear acceptance, consideration, and the rules for interpreting contractual terms. It also considered the doctrine of estoppel where conduct may imply acceptance.",
+    "application": "Analyzing the correspondence, the court assessed whether Grand Mines’ conduct demonstrated unequivocal acceptance of Bercon’s terms. The specific rate, overburden ratio and drilling provisions were examined to determine if they formed part of a complete and enforceable agreement.",
+    "conclusion": "The court concluded that a binding contract had been formed between the parties based on the 18 May 1992 letter and Grand Mines’ subsequent conduct, and it upheld the agreed rate of R14.00 per ROM ton, ordering the parties to perform according to those terms."
+  },
+  "tags": {
+    "level_1": "Contract Law",
+    "level_2": "Mining Contracts",
+    "level_3": [
+      "offer and acceptance",
+      "rate determination",
+      "overburden calculation"
+    ]
+  }
+}

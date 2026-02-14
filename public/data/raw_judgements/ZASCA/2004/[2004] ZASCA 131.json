@@ -1,0 +1,43 @@
+{
+  "url": "https://www.saflii.org/za/cases/ZASCA/2004/131.html",
+  "case_name": "Brink v Humphries & Jewell (Pty) Ltd. (516/03) [2004] ZASCA 131; [2005] 2 All SA 343 (SCA); 2005 (2) SA 419 (SCA) (30 November 2004)",
+  "citation": "[2004] ZASCA 131",
+  "court": "ZASCA",
+  "year": "2004",
+  "full_text": "South Africa: Supreme Court of Appeal\nYou are here:\nSAFLII\n>>\nDatabases\n>>\nSouth Africa: Supreme Court of Appeal\n>>\n2004\n>>\n[2004] ZASCA 131\n|\nNoteup\n|\nLawCite\nBrink v Humphries & Jewell (Pty) Ltd. (516/03) [2004] ZASCA 131; [2005] 2 All SA 343 (SCA); 2005 (2) SA 419 (SCA) (30 November 2004)\nDownload original files\nPDF format\nRTF format\nLinks to summary\nPDF format\nRTF format\nTHE SUPREME COURT OF APPEAL\nOF SOUTH AFRICA\nCase number : 516/03\nReportable\nIn the matter between :\nJ Z BRINK       \n        \n        \n        \n        \n        \n        \n        \n        \n APPELLANT\nand\nHUMPHRIES & JEWELL (PTY) LIMITED        \n        \n RESPONDENT\nCORAM : \n MPATI AP, FARLAM, NAVSA, CLOETE JJA, JAFTA AJA\nHEARD : \n 9 NOVEMBER 2004\nDELIVERED : 30 NOVEMBER 2004\nSummary: Defence of\niustus error\nupheld where a personal suretyship by the signatory was included in an application for credit signed on behalf of a company. Order\nin para [13].\n_________________________________________________________\nJUDGMENT\n(Dissenting pp 16-27)\n_____________________________________________________",
+  "scraped_at": "2026-02-12T09:10:47.344160",
+  "date": "2004-11-30",
+  "coram": [
+    "MPATI AP",
+    "FARLAM",
+    "NAVSA",
+    "CLOETE JJA",
+    "JAFTA AJA"
+  ],
+  "case_number": "516/03",
+  "parties": {
+    "applicants": [
+      "J Z Brink"
+    ],
+    "respondents": [
+      "Humphries & Jewell (Pty) Limited"
+    ]
+  },
+  "sections": {
+    "facts": "The appellant, J Z Brink, signed a credit application on behalf of a company and, in doing so, also provided a personal guarantee (suretyship). The dispute arose over whether the personal guarantee was enforceable against the appellant, given that the guarantee was presented in a corporate credit context.",
+    "issues": "The primary issue was whether the defence of iustus error applied to protect the appellant from personal liability arising from the suretyship, and whether the signatory’s personal guarantee could be deemed binding on the company without the appellant’s explicit personal assent.",
+    "principles": "The court considered the doctrine of iustus error, which shields a party from liability where a mistake of law or fact makes the contract voidable, and established principles of contract law concerning the authority to bind a company and the validity of personal suretyship when the guarantor’s consent is not clearly expressed.",
+    "application": "Applying these principles, the court found that the personal suretyship was included without the appellant’s clear, informed consent and therefore fell within the ambit of iustus error. Consequently, the personal guarantee could not be enforced against the appellant, and the company could not be held liable for the personal element of the guarantee.",
+    "conclusion": "The defence of iustus error was upheld, resulting in the dismissal of the claim against the appellant. The court ordered the respondent’s claim to be struck out, as reflected in paragraph 13 of the judgment."
+  },
+  "tags": {
+    "level_1": "Civil Law",
+    "level_2": "Contract Law",
+    "level_3": [
+      "suretyship",
+      "iustus error",
+      "personal guarantee",
+      "credit application"
+    ]
+  }
+}

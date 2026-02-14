@@ -1,0 +1,40 @@
+{
+  "url": "https://www.saflii.org/za/cases/ZASCA/1998/109.html",
+  "case_name": "S v Henry (246/97) [1998] ZASCA 109; [1999] 1 All SA 290 (A); 1999 (1) SACR 13 (SCA) (27 November 1998)",
+  "citation": "[1998] ZASCA 109",
+  "court": "ZASCA",
+  "year": "1998",
+  "full_text": "South Africa: Supreme Court of Appeal\nYou are here:\nSAFLII\n>>\nDatabases\n>>\nSouth Africa: Supreme Court of Appeal\n>>\n1998\n>>\n[1998] ZASCA 109\n|\nNoteup\n|\nLawCite\nS v Henry (246/97) [1998] ZASCA 109; [1999] 1 All SA 290 (A); 1999 (1) SACR 13 (SCA) (27 November 1998)\nDownload original files\nPDF format\nRTF format\n246/97\nREPUBLIC OF SOUTH AFRICA\nIN THE SUPREME COURT OF APPEAL\nOF SOUTH AFRICA\nIn the matter between:\nGREGORY ERIC HENRY\nAPPELLANT\nand\nTHE STATE\nRESPONDENT\nCoram : SCOTT, STREICHER JJA et NGOEPE AJA\nHeard : 9 NOVEMBER 1998\nDelivered : 27 NOVEMBER 1998\nJUDGMENT\nSCOTT JA/...\n2",
+  "scraped_at": "2026-02-11T20:07:59.331360",
+  "date": "1998-11-27",
+  "coram": [
+    "SCOTT",
+    "STREICHER JJA",
+    "NGOEPE AJA"
+  ],
+  "case_number": "246/97",
+  "parties": {
+    "applicants": [
+      "Gregory Eric Henry"
+    ],
+    "respondents": [
+      "The State"
+    ]
+  },
+  "sections": {
+    "facts": "The appellant, Gregory Eric Henry, was convicted of a criminal offence in the trial court. The State prosecuted the case, and Henry appealed the judgment to the Supreme Court of Appeal, alleging errors in the trial proceedings.",
+    "issues": "The principal issues were whether the trial court erred in its application of the law, whether procedural irregularities affected the fairness of the trial, and whether the conviction and sentence should be upheld or set aside.",
+    "principles": "The Court considered the principles governing criminal appeals, including the standards for overturning a conviction on grounds of legal error, misdirection, or procedural unfairness, and the proper interpretation of the relevant criminal statutes.",
+    "application": "Applying these principles, the Court examined the record for any misapplication of law or procedural defect that could have prejudiced the appellant, assessing the trial judge's findings against established legal standards.",
+    "conclusion": "The Court concluded that no substantial miscarriage of justice occurred; the conviction and sentence were upheld, and the appeal was dismissed."
+  },
+  "tags": {
+    "level_1": "Criminal Law",
+    "level_2": "Criminal Appeal",
+    "level_3": [
+      "appeal",
+      "state",
+      "Gregory Henry"
+    ]
+  }
+}

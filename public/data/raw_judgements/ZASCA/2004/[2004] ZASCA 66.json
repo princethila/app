@@ -1,0 +1,41 @@
+{
+  "url": "https://www.saflii.org/za/cases/ZASCA/2004/66.html",
+  "case_name": "De Jongh v Du Pisanie NO (220/2003) [2004] ZASCA 66 (1 June 2004)",
+  "citation": "[2004] ZASCA 66",
+  "court": "ZASCA",
+  "year": "2004",
+  "full_text": "South Africa: Supreme Court of Appeal\nYou are here:\nSAFLII\n>>\nDatabases\n>>\nSouth Africa: Supreme Court of Appeal\n>>\n2004\n>>\n[2004] ZASCA 66\n|\nNoteup\n|\nLawCite\nDe Jongh v Du Pisanie NO (220/2003) [2004] ZASCA 66 (1 June 2004)\nDownload original files\nPDF format\nRTF format\nLinks to summary\nPDF format\nRTF format\nLast Updated: 4 September 2004\nDIE HOOGSTE HOF VAN APPÈL\nVAN\nSUID-AFRIKA\nSaaknommer :  220/2003\nIn die saak tussen :\nCHRISTIAAN DE JONGH\t\t\t\t\t\nAPPELLANT\nen\nPIETER JOHANNES DU PISANIE NO\t\t      RESPONDENT\nCORAM :\t\t\tMARAIS, BRAND ARR\net\nJONES WND AR\nDATUM :\t\t\t4 MEI 2004\nGELEWER :\t\t1 JUNIE 2004\nOpsomming\n:  Regstelling van syferfout en gevolglike\nberekeningsfout in uitspraak gelewer op 25 Mei 2004. Vervangende bevel in para\n4.\nAANVULLENDE UITSPRAAK\nBRAND AR\n/\nBRAND AR\n:\n[1]\tDit het tot my kennis gekom dat ons uitspraak in\nhierdie saak wat op 25 Mei 2004 gelewer is ('die uitspraak') 'n syferfout bevat\nwat tot 'n berekeningsfout aanleiding gegee het. Die doel hiervan is om dit reg\nte stel.\n[2]\tDie syferfout het betrekking op Rabe se verlies aan\nverdienste. In para 68.2 word geboekstaaf dat daar nie met die 'verhoorhof\nse\ntoekenning van R1 906 225 onder hierdie hoof' ingemeng moet word nie.\nSoos blyk uit para 2 van die uitspraak, was die\nverhoorhof se toekenning onder\nhierdie hoof egter inderwaarheid R1 096 225.\n[3]\tDie\nberekeningsfout waartoe hierdie syferfout aanleiding gegee het, verskyn in paras\n68.4 en 68.5 van die uitspraak. In hul juiste\nvorm moet hierdie paragrawe soos\nvolg lui:\n'4.\nKoste van die kurator\nbonis\nDit is gemene saak\ndat die toekenning onder hierdie hoof gelyk moet wees aan 7,8 persent van die\nvorige drie toekennings. Dit is (R1 588 020.70\n+ R1 096 225\n+ R250 000 = R2 934 245.70 x 7,8%) =\nR228 871.16.\n5.\nTotaal\nHiervolgens bedra die totale bedrag van\nskadevergoeding dus R3 163 116.80.'\n[4]\tIn die lig van die\nvoorgaande word die bevel van hierdie hof in para 70 van die uitspraak vervang\nmet die volgende:\n'[70]\tGevolglik slaag die appèl met koste. Die\nverhoorhof se bevel word tersyde gestel en vervang met die volgende:\n\"Vonnis\nword ten gunste van die eiser teen die verweerder soos volg\ntoegestaan:\n(1)\tR3 163 116.80 synde skadevergoeding;\n(2)\tRente\ndaarop teen die koers wat ingevolge die bepalings van die Wet \top Voorgeskrewe\nRentekoers 55 van 1975 voorgeskryf word vanaf\n14 \tdae na datum hiervan (synde 23\n\tDesember 2000) tot datum van \tbetaling;\n(3)\tGeen kostebevel word op hierdie\nstadium gemaak nie.\"'\n....................\nF D J\nBRAND\nAPPÈLREGTER\nStem saam\n:\nMarais AR\nJones Wnd AR",
+  "scraped_at": "2026-02-12T09:05:12.237672",
+  "date": "2004-06-01",
+  "coram": [
+    "Marais AR",
+    "Brand AR",
+    "Jones Wnd AR"
+  ],
+  "case_number": "220/2003",
+  "parties": {
+    "applicants": [
+      "Christiaan de Jongh"
+    ],
+    "respondents": [
+      "Pieter Johannes du Pisanie NO"
+    ]
+  },
+  "sections": {
+    "facts": "The appellant, Christiaan de Jongh, appealed a High Court judgment dated 25 May 2004 which awarded damages, including a loss of earnings for Rabe and curator‑bonis costs. The original judgment contained a typographical error that recorded Rabe's loss of earnings as R1,906,225 instead of the correct R1,096,225, leading to an erroneous total damages figure.",
+    "issues": "Whether the appellate court could correct the numerical mistake and recalculate the damages, and whether the appellant was entitled to costs on the appeal.",
+    "principles": "Courts have inherent authority to correct clerical and calculation errors in their judgments to ensure that awards reflect the correct figures. The principle of accurate quantification of damages requires that any mistake affecting the amount awarded be rectified, and the court may adjust costs accordingly.",
+    "application": "The court identified the correct loss of earnings figure (R1,096,225) and recomputed the curator‑bonis costs at 7.8% of the three preceding awards (R1,588,020.70, R1,096,225 and R250,000), resulting in R228,871.16. Adding this to the corrected loss of earnings gave a total damages award of R3,163,116.80. The original paragraph 70 of the judgment was replaced with an order granting the appellant success, specifying the corrected amount, interest as per the 1975 interest rate law, and stating that no further costs were to be awarded at this stage.",
+    "conclusion": "The appeal succeeded; the judgment was amended to reflect the corrected damages of R3,163,116.80, with interest accruing from 14 days after 23 December 2000, and no additional cost order was made."
+  },
+  "tags": {
+    "level_1": "Civil Law",
+    "level_2": "Damages",
+    "level_3": [
+      "calculation error",
+      "judgment correction",
+      "curator costs",
+      "interest"
+    ]
+  }
+}

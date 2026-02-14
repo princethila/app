@@ -1,0 +1,43 @@
+{
+  "url": "https://www.saflii.org/za/cases/ZASCA/1998/86.html",
+  "case_name": "Road Accident Fund v Smith NO (555/96) [1998] ZASCA 86; 1999 (1) SA 92 (SCA); [1998] 4 All SA 429 (A) (28 September 1998)",
+  "citation": "[1998] ZASCA 86",
+  "court": "ZASCA",
+  "year": "1998",
+  "full_text": "South Africa: Supreme Court of Appeal\nYou are here:\nSAFLII\n>>\nDatabases\n>>\nSouth Africa: Supreme Court of Appeal\n>>\n1998\n>>\n[1998] ZASCA 86\n|\nNoteup\n|\nLawCite\nRoad Accident Fund v Smith NO (555/96) [1998] ZASCA 86; 1999 (1) SA 92 (SCA); [1998] 4 All SA 429 (A) (28 September 1998)\nDownload original files\nPDF format\nRTF format\nREPUBLIC\nOF\nSOUTH AFRICA\nREPORTABLE\nevdw/\nCase no: 555/96\nIN THE SUPREME COURT OF APPEAL OF\nSOUTH AFRICA\nIn the matter between\nROAD ACCIDENT FUND\nAppellant\nand\nRAPHAEL SMITH NO\nRespondent\nCoram :\nVan Heerden DCJ, Harms, Schutz JJA, Melunsky et\nFarlam AJJA\nDate of hearing\n: 7 September 1998\nDate of delivery\n: 28 September 1998\nJUDGMENT\n2 FARLAM AJA\nThe facts, the relevant statutory provisions and case law and the contentions\nof the parties are set out in the judgment of Van Heerden DCJ, which I have had the\nadvantage of reading. My reasons for respectfully disagreeing with his conclusion\nfollow.\nA convenient starting point is a reference to the dictum of Miller J in Apalamah\nv Santam Insurance Co Ltd, 1975(2) SA 229(D) 234 A-B which was\nquoted with approval in SA Mutual Fire and General Insurance Co Ltd v Eyberg\n1981(4) SA 318(A) 327 D-G. The proposition is that where the two statutes conflict\non the same topic the generality of the Prescription Act must yield to the third party\nlegislation. In this case the respondent contends that the references to an insane\nperson in the former and to a person detained under the mental health legislation in\nthe Agreement, pertain to the same topic. I have difficulty with this equation, as it\nseems manifest that, whatever the degree of overlap, not all insane persons are\ndetained, and not all detained persons are insane. This is not one of the simple cases\nsuch as minority and subjection to curatorship where the same words are used in\n3",
+  "scraped_at": "2026-02-11T20:01:13.403279",
+  "date": "1998-09-28",
+  "coram": [
+    "Van Heerden DCJ",
+    "Harms",
+    "Schutz JJA",
+    "Melunsky",
+    "Farlam AJJA"
+  ],
+  "case_number": "555/96",
+  "parties": {
+    "applicants": [
+      "Road Accident Fund"
+    ],
+    "respondents": [
+      "Raphael Smith NO"
+    ]
+  },
+  "sections": {
+    "facts": "The case concerned a claim under the Road Accident Fund against Raphael Smith. The Fund's agreement with the claimant referred to an \"insane person\" while the claimant argued that the same clause should be read as referring to a \"person detained under the mental health legislation\". The dispute turned on whether these two expressions denoted the same legal category and therefore triggered the same statutory consequences.",
+    "issues": "The principal issue was whether the provisions of the Prescription Act (or other general legislation) conflicted with the specific terms of the Fund’s agreement concerning mental incapacity, and, if a conflict existed, which provision should prevail.",
+    "principles": "The court applied the doctrine that where a general statute conflicts with a more specific third‑party legislation, the specific provision prevails. This principle was drawn from Miller J’s dictum in Apalamah v Santam and reaffirmed in SA Mutual Fire and General Insurance v Eyberg. The analysis also examined the legal distinction between \"insane\" persons and persons \"detained under mental health legislation\".",
+    "application": "Justice Farlam AJA rejected the respondent’s contention that the two expressions were interchangeable, noting that not every insane person is detained and not every detained person is legally insane. Consequently, the court found no direct conflict between the general Prescription Act and the specific wording of the agreement, and the statutory hierarchy favored the agreement’s distinct terms.",
+    "conclusion": "The appeal was allowed in favour of the Road Accident Fund. The court concluded that the respondent’s argument about a shared legal category was untenable, and that the Fund’s position on the interpretation of the agreement and the applicability of the Prescription Act was affirmed."
+  },
+  "tags": {
+    "level_1": "Civil Law",
+    "level_2": "Personal Injury",
+    "level_3": [
+      "Road Accident Fund",
+      "Mental Incapacity",
+      "Statutory Interpretation",
+      "Prescription Act"
+    ]
+  }
+}
