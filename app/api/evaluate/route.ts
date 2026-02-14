@@ -4,57 +4,76 @@ import path from 'path';
 import { createClient } from '@supabase/supabase-js';
 
 
-const DATA_ROOT = path.join(process.cwd(), '../data/raw_judgements'); 
+
 
 export async function GET() {
-//   console.log("--- DEBUG START ---");
-//   console.log("Current Directory:", process.cwd());
+  // 1. FORCE THE PATH: process.cwd() is the root of your project on Vercel
+  const DATA_ROOT = path.join(process.cwd(),'public', 'data', 'raw_judgements');
 
   try {
-    const courts = await fs.readdir(DATA_ROOT);
+    // Check if the directory exists before reading
+    try {
+      await fs.access(DATA_ROOT);
+    } catch {
+      return NextResponse.json({ error: `Directory not found at ${DATA_ROOT}` }, { status: 404 });
+    }
+
+    // 2. Get Courts
+    const allCourts = await fs.readdir(DATA_ROOT);
+    const courts = allCourts.filter(f => !f.startsWith('.')); // Ignore .DS_Store
     if (!courts || courts.length === 0) {
       return NextResponse.json({ error: 'no courts found' }, { status: 404 });
     }
-
     const court = courts[Math.floor(Math.random() * courts.length)];
 
-    const years = await fs.readdir(path.join(DATA_ROOT, court));
+    // 3. Get Years
+    const courtPath = path.join(DATA_ROOT, court);
+    const allYears = await fs.readdir(courtPath);
+    const years = allYears.filter(f => !f.startsWith('.'));
     if (!years || years.length === 0) {
-      return NextResponse.json({ error: 'no years found for court' }, { status: 404 });
+      return NextResponse.json({ error: 'no years found' }, { status: 404 });
     }
-
     const year = years[Math.floor(Math.random() * years.length)];
 
-    const files = await fs.readdir(path.join(DATA_ROOT, court, year));
+    // 4. Get Files
+    const yearPath = path.join(courtPath, year);
+    const allFiles = await fs.readdir(yearPath);
+    const files = allFiles.filter(f => f.endsWith('.json'));
     if (!files || files.length === 0) {
-      return NextResponse.json({ error: 'no files found for court/year' }, { status: 404 });
+      return NextResponse.json({ error: 'no JSON files found' }, { status: 404 });
     }
 
     const idx = Math.floor(Math.random() * files.length);
     const chosen = files[idx];
 
-    const filePath = path.join(DATA_ROOT, court, year, chosen);
+    // 5. Read Content
+    const filePath = path.join(yearPath, chosen);
     const raw = await fs.readFile(filePath, 'utf-8');
-    let content: any;
+    
+    let content;
     try {
       content = JSON.parse(raw);
     } catch (e) {
-      content = raw;
+      content = { raw_text: raw }; // Fallback if not valid JSON
     }
 
-    console.log(`Fetched file: ${filePath}`);
+    // For debugging in Vercel Logs
+    console.log(`Successfully served: ${court}/${year}/${chosen}`);
 
     return NextResponse.json({
       fileName: chosen,
       relPath: `${court}/${year}/${chosen}`,
       content,
     });
+
   } catch (err) {
-    console.error('GET /api/evaluate error', err);
-    return NextResponse.json({ error: (err as Error).message }, { status: 500 });
+    console.error('CRITICAL_API_ERROR:', err);
+    return NextResponse.json({ 
+      error: (err as Error).message,
+      path_attempted: DATA_ROOT 
+    }, { status: 500 });
   }
 }
-
 
 export async function POST(req: Request) {
   const body = await req.json();
